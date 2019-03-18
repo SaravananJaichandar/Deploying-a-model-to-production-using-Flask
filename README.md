@@ -8,16 +8,16 @@ VGG16 is model is used for training the cats and dogs images and the predictions
 
 # Our model after deploying it as a web application
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/SaravananJaichandar/Deploying-a-model-to-production-using-Flask/blob/master/initial.png)
 
 # Predictions for Cat
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/SaravananJaichandar/Deploying-a-model-to-production-using-Flask/blob/master/cat.png)
 
 # Predictions for Dog
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/SaravananJaichandar/Deploying-a-model-to-production-using-Flask/blob/master/dog.png)
 
 # Predictions for both Cat and Dog
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/SaravananJaichandar/Deploying-a-model-to-production-using-Flask/blob/master/catdog.png)
